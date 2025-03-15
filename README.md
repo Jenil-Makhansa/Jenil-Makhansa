@@ -39,6 +39,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"/>
   </a>
+  @emsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23F8981D.svg?logo=java&logoColor=white"/>
+  </a>
   &emsp;
   <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
