@@ -4,8 +4,6 @@
 </p>
 
 ## About 🤠
-
-
 - 🤓 A passionate Software Engineer who loves problem-solving and innovation.
 - 💻 Enthusiastic about data-driven technologies and exploring diverse techniques in the ever-evolving world of data engineering.
 - 🌱 Continuously mastering cutting-edge technologies to tackle challenges with efficiency and precision.
