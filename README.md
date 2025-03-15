@@ -98,6 +98,17 @@
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"/>
   </a>
   &emsp;
+  <a href="https://git-scm.com/">
+  `<img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://github.com/">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+   </a>
+  &emsp;
+  <a href="https://code.visualstudio.com/">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
+  </a>
 </p>
 
 ### Github Stats 🏆
