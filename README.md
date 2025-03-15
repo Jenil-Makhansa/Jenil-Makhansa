@@ -99,7 +99,7 @@
   </a>
   &emsp;
   <a href="https://git-scm.com/">
-  `<img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://github.com/">
