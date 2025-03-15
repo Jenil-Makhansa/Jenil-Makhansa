@@ -105,10 +105,6 @@
   <a href="https://github.com/">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
    </a>
-  &emsp;
-  <a href="https://code.visualstudio.com/">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
-  </a>
 </p>
 
 ### Github Stats 🏆
