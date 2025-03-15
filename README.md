@@ -12,24 +12,22 @@
 
 <p align="left">
   &emsp;
-  <a href="https://www.python.org" rel="_blank"> 
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://isocpp.org/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?logo=c&logoColor=white"/>
   </a>
+
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
+    <a href="https://isocpp.org/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+  </a>
+
+  &emsp;
+    <a href="https://www.java.com/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23F8981D.svg?logo=java&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.python.org" rel="_blank"> 
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.w3.org/html/" target="_blank">
@@ -39,9 +37,13 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"/>
   </a>
-  @emsp;
-  <a href="https://www.java.com/" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23F8981D.svg?logo=java&logoColor=white"/>
+  &emsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
+  </a>
+  &emsp;
+    <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://getbootstrap.com/" target="_blank">
