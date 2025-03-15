@@ -67,36 +67,37 @@
 <p align="left">
   &emsp;
    <a href="https://nodejs.org/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://expressjs.com/" target="_blank">
-    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>
+    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/>
   </a>
   &emsp;
   <a href="https://jwt.io/" target="_blank">
-    <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"/>
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"/>
   </a>
   &emsp;
   <a href="https://www.npmjs.com/" target="_blank">
-    <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white"/>
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
   </a>
   &emsp;
   <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://numpy.org/" target="_blank">
-    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/>
+    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
+    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"/>
   </a>
+  &emsp;
 </p>
 
 ### Github Stats 🏆
