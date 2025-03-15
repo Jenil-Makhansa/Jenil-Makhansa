@@ -8,3 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Jenil-Makhansa&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jenil-Makhansa&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenil-Makhansa&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Leetcode Stats 🏆
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Jenil_Makhansa?ext=heatmap)
