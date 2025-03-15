@@ -8,8 +8,6 @@
 - 💻 Enthusiastic about data-driven technologies and exploring diverse techniques in the ever-evolving world of data engineering.
 - 🌱 Continuously mastering cutting-edge technologies to tackle challenges with efficiency and precision.
 
-### 💻Tech Stack
-
 ### 👉 Programming Languages
 
 <p align="left">
@@ -47,6 +45,26 @@
   </a>
 </p>
 
+### 👉 Databases & Cloud Hosting
+
+<p align="left">
+  &emsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"/>
+  </a>
+  &emsp;
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"/>
+  </a>
+</p>
 
 ### Github Stats 🏆
 
