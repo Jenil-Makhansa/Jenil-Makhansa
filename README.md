@@ -9,14 +9,14 @@
 
 <div align="center" >
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jenil-Makhansa&theme=react" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jenil-Makhansa&theme=react" width="50%">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jenil-Makhansa&theme=react&utcOffset=5.30" width="49%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jenil-Makhansa&theme=react&utcOffset=5.30" width="50%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenil-Makhansa&theme=react" width="100%">
 
 </div>
-## Leetcode Stats 🏆
+### Leetcode Stats 🏆
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Jenil_Makhansa?ext=heatmap)
 
