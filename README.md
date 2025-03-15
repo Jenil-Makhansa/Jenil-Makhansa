@@ -39,14 +39,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
   </a>
-  &emsp;
-    <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
-  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -74,6 +66,10 @@
 
 <p align="left">
   &emsp;
+   <a href="https://nodejs.org/" target="_blank">
+    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+  </a>
+  &emsp;
   <a href="https://expressjs.com/" target="_blank">
     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>
   </a>
@@ -84,10 +80,6 @@
   &emsp;
   <a href="https://www.npmjs.com/" target="_blank">
     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
@@ -106,7 +98,6 @@
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
   </a>
 </p>
-
 
 ### Github Stats 🏆
 
