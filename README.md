@@ -15,12 +15,10 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?logo=c&logoColor=white"/>
   </a>
-
   &emsp;
     <a href="https://isocpp.org/" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
   </a>
-
   &emsp;
     <a href="https://www.java.com/" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java-%23F8981D.svg?logo=java&logoColor=white"/>
